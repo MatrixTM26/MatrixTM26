@@ -10,14 +10,24 @@
 
 <br/>
 
-<a href="https://github.com/MatrixTM26">
-  <img src="https://komarev.com/ghpvc/?username=MatrixTM26&label=PROFILE%20VIEWS&color=e11d48&style=for-the-badge&labelColor=0d1117"/>
+<a href="https://github.com/MatrixTM26" style="text-decoration:none;border:none;outline:none;">
+  <img src="https://komarev.com/ghpvc/?username=MatrixTM26&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge&labelColor=000000"/>
 </a>
-<a href="https://github.com/MatrixTM26?tab=followers">
-  <img src="https://img.shields.io/github/followers/MatrixTM26?label=FOLLOWERS&style=for-the-badge&color=64748b&labelColor=0d1117&logo=github"/>
+
+<a href="https://github.com/MatrixTM26?tab=followers" style="text-decoration:none;border:none;outline:none;">
+  <img src="https://img.shields.io/github/followers/MatrixTM26?label=FOLLOWERS&style=for-the-badge&color=00ff88&labelColor=000000&logo=github&logoColor=00ff88"/>
 </a>
-<a href="https://github.com/MatrixTM26?tab=repositories">
-  <img src="https://img.shields.io/github/stars/MatrixTM26?style=for-the-badge&logo=apachespark&logoColor=white&color=f59e0b&labelColor=0d1117"/>
+
+<a href="https://github.com/MatrixTM26?tab=repositories" style="text-decoration:none;border:none;outline:none;">
+  <img src="https://img.shields.io/github/stars/MatrixTM26?style=for-the-badge&logo=apachespark&logoColor=00ff88&color=00ff88&labelColor=000000"/>
+</a>
+
+<a href="https://github.com/MatrixTM26" style="text-decoration:none;border:none;outline:none;">
+  <img src="https://img.shields.io/badge/CYBER%20SECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff88"/>
+</a>
+
+<a href="https://github.com/MatrixTM26" style="text-decoration:none;border:none;outline:none;">
+  <img src="https://img.shields.io/badge/CODERS-000000?style=for-the-badge&logo=gnubash&logoColor=00ff88"/>
 </a>
 
 </div>
@@ -158,14 +168,16 @@ Let's connect and be a friend!
 
 <br/>
 
-<a href="https://instagram.com/MatrixTM26" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0e0e0e?logo=instagram&logoColor=ff0000" height="40" alt="Instagram"/>
+<a href="https://instagram.com/MatrixTM26" style="text-decoration:none;border:none;outline:none;">
+  <img src="https://img.shields.io/badge/Instagram-0e0e0e?logo=instagram&logoColor=ff0000" height="30" alt="Instagram"/>
 </a>
-<a href="https://t.me/MatrixTM26" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-0e0e0e?logo=telegram&logoColor=004ef6" height="40" alt="Telegram"/>
+
+<a href="https://t.me/MatrixTM26" style="text-decoration:none;border:none;outline:none;">
+  <img src="https://img.shields.io/badge/Telegram-0e0e0e?logo=telegram&logoColor=004ef6" height="30" alt="Telegram"/>
 </a>
-<a href="https://facebook.com/mau.x.99926" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-0e0e0e?logo=facebook&logoColor=004ef6" height="40" alt="Facebook"/>
+
+<a href="https://facebook.com/mau.x.99926" style="text-decoration:none;border:none;outline:none;">
+  <img src="https://img.shields.io/badge/Facebook-0e0e0e?logo=facebook&logoColor=004ef6" height="30" alt="Facebook"/>
 </a>
 
 </div>
@@ -180,11 +192,12 @@ If this project helps, you can support me here:
 
 <br/>
 
-<a href="https://ko-fi.com/MatrixTM26" target="_blank">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="40" alt="Support me on Ko-fi"/>
+<a href="https://ko-fi.com/MatrixTM26" style="text-decoration:none;">
+  <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="30" alt="Ko-fi">
 </a>
-<a href="https://trakteer.id/MatrixTM26" target="_blank">
-  <img src="https://img.shields.io/badge/Support-Trakteer-orange" height="40" alt="Support me on Trakteer"/>
+
+<a href="https://trakteer.id/MatrixTM26" style="text-decoration:none;">
+  <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="30" alt="Trakteer">
 </a>
 
 </div>

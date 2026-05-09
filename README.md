@@ -83,11 +83,11 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e11d48&text_color=94a3b8&icon_color=f59e0b" width="100%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&title_color=e11d48&text_color=94a3b8&icon_color=f59e0b" width="100%"/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MatrixTM26&hide_border=true&background=0d1117&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="100%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MatrixTM26&hide_border=true&theme=tokyonight&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" width="100%"/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=e11d48&text_color=94a3b8" width="100%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight&title_color=e11d48&text_color=94a3b8" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatrixTM26&bg_color=0d1117&color=94a3b8&line=e11d48&point=f59e0b&area=true&area_color=e11d48&hide_border=true&radius=6" width="100%"/>
 

@@ -159,13 +159,13 @@ Let's connect and be a friend!
 <br/>
 
 <a href="https://instagram.com/MatrixTM26" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0e0e0e?logo=instagram&logoColor=ff0000" height="25" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-0e0e0e?logo=instagram&logoColor=ff0000" height="40" alt="Instagram"/>
 </a>
 <a href="https://t.me/MatrixTM26" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-0e0e0e?logo=telegram&logoColor=004ef6" height="25" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-0e0e0e?logo=telegram&logoColor=004ef6" height="40" alt="Telegram"/>
 </a>
 <a href="https://facebook.com/mau.x.99926" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-0e0e0e?logo=facebook&logoColor=004ef6" height="25" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-0e0e0e?logo=facebook&logoColor=004ef6" height="40" alt="Facebook"/>
 </a>
 
 </div>
@@ -181,10 +181,10 @@ If this project helps, you can support me here:
 <br/>
 
 <a href="https://ko-fi.com/MatrixTM26" target="_blank">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="20" alt="Support me on Ko-fi"/>
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="40" alt="Support me on Ko-fi"/>
 </a>
 <a href="https://trakteer.id/MatrixTM26" target="_blank">
-  <img src="https://img.shields.io/badge/Support-Trakteer-orange" height="20" alt="Support me on Trakteer"/>
+  <img src="https://img.shields.io/badge/Support-Trakteer-orange" height="40" alt="Support me on Trakteer"/>
 </a>
 
 </div>

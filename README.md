@@ -169,15 +169,15 @@ Let's connect and be a friend!
 <br/>
 
 <a href="https://instagram.com/MatrixTM26" style="text-decoration:none;border:none;outline:none;">
-  <img src="https://img.shields.io/badge/Instagram-0e0e0e?logo=instagram&logoColor=ff0000" height="30" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-0e0e0e?logo=instagram&logoColor=ff0000" height="40" alt="Instagram"/>
 </a>
 
 <a href="https://t.me/MatrixTM26" style="text-decoration:none;border:none;outline:none;">
-  <img src="https://img.shields.io/badge/Telegram-0e0e0e?logo=telegram&logoColor=004ef6" height="30" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-0e0e0e?logo=telegram&logoColor=004ef6" height="40" alt="Telegram"/>
 </a>
 
 <a href="https://facebook.com/mau.x.99926" style="text-decoration:none;border:none;outline:none;">
-  <img src="https://img.shields.io/badge/Facebook-0e0e0e?logo=facebook&logoColor=004ef6" height="30" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-0e0e0e?logo=facebook&logoColor=004ef6" height="40" alt="Facebook"/>
 </a>
 
 </div>

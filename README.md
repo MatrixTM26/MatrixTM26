@@ -169,21 +169,15 @@ Let's connect and be a friend!
 <br/>
 
 <a href="https://instagram.com/MatrixTM26" style="text-decoration:none;border:none;outline:none;">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff88"
-       alt="Instagram"
-       style="height:50px;">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=f90000" alt="Instagram" style="height:30px;">
 </a>
 
 <a href="https://t.me/MatrixTM26" style="text-decoration:none;border:none;outline:none;">
-  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88"
-       alt="Telegram"
-       style="height:50px;">
+  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00b4fe" alt="Telegram" style="height:30px;">
 </a>
 
 <a href="https://facebook.com/mau.x.99926" style="text-decoration:none;border:none;outline:none;">
-  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00ff88"
-       alt="Facebook"
-       style="height:50px;">
+  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00daff" alt="Facebook" style="height:30px;">
 </a>
 
 </div>

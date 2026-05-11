@@ -63,15 +63,16 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <img src="https://skillicons.dev/icons?i=django,flask,pytorch,opencv,tensorflow,selenium,processing,npm,pnpm,arduino&perline=10&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=dotnet,docker,regex,qt,gtk,electron,git,graphql,unity,unreal&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dotnet,docker,regex,qt,gtk,electron,git,jquery,unity,unreal&perline=10&theme=dark" />
 <br/>
 <img src="https://skillicons.dev/icons?i=react,vue,nodejs,sqlite,mysql,mongodb,postgresql,cloudflare,aws,azure&perline=10&theme=dark" />
-
+<br>
+<img src="https://skillicons.dev/icons?i=vite,vitest,cmake,githubactions,bots,yarn,bun,raspberrypi,vscode,sublime&perline=10&theme=dark" />
 <br/>
 
 ▸ **Platforms & Hardware**
 
-<img src="https://skillicons.dev/icons?i=linux,kali,arch,debian,ubuntu,windows,bsd,raspberrypi,vscode,sublime&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,kali,arch,debian,redhat,ubuntu,windows,github,vercel,netlify&perline=10&theme=dark" />
 
 </div>
 

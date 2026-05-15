@@ -27,9 +27,9 @@
 Security researcher & firmware developer focused on offensive security, low-level programming, and embedded systems.
 Currently working on firmware analysis & exploit development — deep-diving into reverse engineering & IoT security.
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff88)](https://instagram.com/xtm26.xp)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff88)](https://instagram.com/matrixtm26.xp)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/MatrixTM26)
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00ff88)](https://facebook.com/tom.s.mckinnon.26799)
+[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00ff88)](https://facebook.com/matrixtm26.xp)
 [![My Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00daff)](https://matrixtm26-dev.vercel.app)
 
 </div>

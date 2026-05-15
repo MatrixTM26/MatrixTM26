@@ -111,7 +111,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 [![ORBITAL_VSAT](https://img.shields.io/badge/ORBITAL_VSAT-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/ORBITAL-VSAT)
 [![TOMCAT_C2](https://img.shields.io/badge/TOMCAT_C2-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/TOMCAT-C2)
 [![SHELL_BACKDOOR](https://img.shields.io/badge/SHELL_BACKDOOR-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/shell-backdoor)
-[![NECROM4NCER](https://img.shields.io/badge/NECROM4NCER-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/Necrom4ancer)
+[![NECROM4NCER](https://img.shields.io/badge/NECROM4NCER-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/Necrom4ncer)
 [![ASSAULT_XSS](https://img.shields.io/badge/ASSAULT_XSS-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/AssaultXSS)
 [![HTONSPIDER](https://img.shields.io/badge/HTONSPIDER-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/HTONSpider)
 

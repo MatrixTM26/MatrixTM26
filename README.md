@@ -10,25 +10,11 @@
 
 <br/>
 
-<a href="https://github.com/MatrixTM26" style="text-decoration:none;border:none;outline:none;">
-  <img src="https://komarev.com/ghpvc/?username=MatrixTM26&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge&labelColor=000000"/>
-</a>
-
-<a href="https://github.com/MatrixTM26?tab=followers" style="text-decoration:none;border:none;outline:none;">
-  <img src="https://img.shields.io/github/followers/MatrixTM26?label=FOLLOWERS&style=for-the-badge&color=00ff88&labelColor=000000&logo=github&logoColor=00ff88"/>
-</a>
-
-<a href="https://github.com/MatrixTM26?tab=repositories" style="text-decoration:none;border:none;outline:none;">
-  <img src="https://img.shields.io/github/stars/MatrixTM26?style=for-the-badge&logo=apachespark&logoColor=00ff88&color=00ff88&labelColor=000000"/>
-</a>
-
-<a href="https://github.com/MatrixTM26" style="text-decoration:none;border:none;outline:none;">
-  <img src="https://img.shields.io/badge/CYBER%20SECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff88"/>
-</a>
-
-<a href="https://github.com/MatrixTM26" style="text-decoration:none;border:none;outline:none;">
-  <img src="https://img.shields.io/badge/CODERS-000000?style=for-the-badge&logo=gnubash&logoColor=00ff88"/>
-</a>
+[![PROFILE VIEWS](https://komarev.com/ghpvc/?username=MatrixTM26&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge&labelColor=000000)](https://github.com/MatrixTM26)
+[![FOLLOWERS](https://img.shields.io/github/followers/MatrixTM26?label=FOLLOWERS&style=for-the-badge&color=00ff88&labelColor=000000&logo=github&logoColor=00ff88)](https://github.com/MatrixTM26?tab=followers)
+[![STARS](https://img.shields.io/github/stars/MatrixTM26?style=for-the-badge&logo=apachespark&logoColor=00ff88&color=00ff88&labelColor=000000)](https://github.com/MatrixTM26?tab=repositories)
+[![CYBER SECURITY](https://img.shields.io/badge/CYBER%20SECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff88)](https://github.com/MatrixTM26)
+[![CODERS](https://img.shields.io/badge/CODERS-000000?style=for-the-badge&logo=gnubash&logoColor=00ff88)](https://github.com/MatrixTM26)
 
 </div>
 
@@ -40,6 +26,11 @@
 
 Security researcher & firmware developer focused on offensive security, low-level programming, and embedded systems.
 Currently working on firmware analysis & exploit development — deep-diving into reverse engineering & IoT security.
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff88)](https://instagram.com/xtm26.xp)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/MatrixTM26)
+[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00ff88)](https://facebook.com/tom.s.mckinnon.26799)
+[![My Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00daff)](https://matrixtm26-dev.vercel.app)
 
 </div>
 
@@ -92,46 +83,9 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatrixTM26&bg_color=0d1117&color=94a3b8&line=e11d48&point=f59e0b&area=true&area_color=e11d48&hide_border=true&radius=6" width="100%"/>
 
-</div>
-
----
-
-<div align="left">
-
-## ◈ 3D Contribution
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-
-</div>
-
----
-
-<div align="left">
-
-## ◈ Profile Summary
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatrixTM26&theme=tokyonight" width="100%"/>
-
-<br/>
-
-<table border="0" cellspacing="0" cellpadding="4" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatrixTM26&theme=tokyonight" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatrixTM26&theme=tokyonight" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatrixTM26&theme=tokyonight&utcOffset=7" width="100%"/>
 
 </div>
 
@@ -149,37 +103,17 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 ---
 
-<div align="left">
-
-## ◈ Quote of the Day
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
-
-</div>
-
----
+## ◈ TOP PROJECT LIST
 
 <div align="left">
-
-## ◈ Social
-
-Let's connect and be a friend!
-
-<br/>
-
-<a href="https://instagram.com/MatrixTM26" style="text-decoration:none;border:none;outline:none;">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=f90000" alt="Instagram" style="height:30px;">
-</a>
-
-<a href="https://t.me/MatrixTM26" style="text-decoration:none;border:none;outline:none;">
-  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00b4fe" alt="Telegram" style="height:30px;">
-</a>
-
-<a href="https://facebook.com/mau.x.99926" style="text-decoration:none;border:none;outline:none;">
-  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00daff" alt="Facebook" style="height:30px;">
-</a>
+  
+[![GHOST_COMMIT](https://img.shields.io/badge/GHOST_COMMIT-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/GhostCommit)
+[![ORBITAL_VSAT](https://img.shields.io/badge/ORBITAL_VSAT-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/ORBITAL-VSAT)
+[![TOMCAT_C2](https://img.shields.io/badge/TOMCAT_C2-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/TOMCAT-C2)
+[![SHELL_BACKDOOR](https://img.shields.io/badge/SHELL_BACKDOOR-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/shell-backdoor)
+[![NECROM4NCER](https://img.shields.io/badge/NECROM4NCER-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/Necrom4ancer)
+[![ASSAULT_XSS](https://img.shields.io/badge/ASSAULT_XSS-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/AssaultXSS)
+[![HTONSPIDER](https://img.shields.io/badge/HTONSPIDER-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/HTONSpider)
 
 </div>
 
@@ -191,15 +125,9 @@ Let's connect and be a friend!
 
 If this project helps, you can support me here:
 
-<br/>
-
-<a href="https://ko-fi.com/MatrixTM26" style="text-decoration:none;">
-  <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="30" alt="Ko-fi">
-</a>
-
-<a href="https://trakteer.id/MatrixTM26" style="text-decoration:none;">
-  <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="30" alt="Trakteer">
-</a>
+[![Ko-fi](https://img.shields.io/badge/KO--FI-000000?style=for-the-badge&logo=kofi&logoColor=ff5f5f)](https://ko-fi.com/MatrixTM26)
+[![Trakteer](https://img.shields.io/badge/TRAKTEER-000000?style=for-the-badge&logo=buymeacoffee&logoColor=ff4444)](https://trakteer.id/MatrixTM26)
+[![PayPal](https://img.shields.io/badge/PAYPAL-000000?style=for-the-badge&logo=paypal&logoColor=00a2ff)](https://paypal.me/TeukuMaulana)
 
 </div>
 

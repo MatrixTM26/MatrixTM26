@@ -114,6 +114,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 [![NECROM4NCER](https://img.shields.io/badge/NECROM4NCER-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/Necrom4ncer)
 [![ASSAULT_XSS](https://img.shields.io/badge/ASSAULT_XSS-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/AssaultXSS)
 [![HTONSPIDER](https://img.shields.io/badge/HTONSPIDER-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/HTONSpider)
+[![FUSION MAP](https://img.shields.io/badge/FUSION_MAP-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/FusionMAP)
 
 </div>
 

@@ -30,7 +30,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff0000)](https://instagram.com/matrixtm26.xp)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00daff)](https://t.me/MatrixTM26)
 [![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=024ef1)](https://facebook.com/matrixtm26.xp)
-[![My Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=02f1d5)](https://matrixtm26-dev.vercel.app)
+[![My Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://matrixtm26-dev.vercel.app)
 
 </div>
 

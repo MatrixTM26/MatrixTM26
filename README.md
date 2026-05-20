@@ -10,9 +10,6 @@
 
 <br/>
 
-[![PROFILE VIEWS](https://komarev.com/ghpvc/?username=MatrixTM26&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge&labelColor=000000)](https://github.com/MatrixTM26)
-[![FOLLOWERS](https://img.shields.io/github/followers/MatrixTM26?label=FOLLOWERS&style=for-the-badge&color=00ff88&labelColor=000000&logo=github&logoColor=00ff88)](https://github.com/MatrixTM26?tab=followers)
-[![STARS](https://img.shields.io/github/stars/MatrixTM26?style=for-the-badge&logo=apachespark&logoColor=00ff88&color=00ff88&labelColor=000000)](https://github.com/MatrixTM26?tab=repositories)
 [![CYBER SECURITY](https://img.shields.io/badge/CYBER%20SECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff88)](https://github.com/MatrixTM26)
 [![CODERS](https://img.shields.io/badge/CODERS-000000?style=for-the-badge&logo=gnubash&logoColor=00ff88)](https://github.com/MatrixTM26)
 
@@ -22,7 +19,7 @@
 
 <div align="left">
 
-## ◈ About Me
+## About Me
 
 Security researcher & firmware developer focused on offensive security, low-level programming, and embedded systems.
 Currently working on firmware analysis & exploit development — deep-diving into reverse engineering & IoT security.
@@ -38,11 +35,11 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
 
-## ◈ Tech Stack
+## Tech Stack
 
 <br/>
 
-▸ **Languages**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,ruby,dart,perl,java,golang,rust&perline=10&theme=dark" />
 <br/>
@@ -50,7 +47,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <br/>
 
-▸ **Frameworks & Tools**
+**Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=django,flask,pytorch,opencv,tensorflow,selenium,processing,npm,pnpm,arduino&perline=10&theme=dark" />
 <br/>
@@ -61,7 +58,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 <img src="https://skillicons.dev/icons?i=vite,vitest,cmake,githubactions,bots,yarn,bun,raspberrypi,vscode,sublime&perline=10&theme=dark" />
 <br/>
 
-▸ **Platforms & Hardware**
+**Platforms & Hardware**
 
 <img src="https://skillicons.dev/icons?i=linux,kali,arch,debian,redhat,ubuntu,windows,github,vercel,netlify&perline=10&theme=dark" />
 
@@ -71,7 +68,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
 
-## ◈ GitHub Stats
+## GitHub Stats
 
 <br/>
 
@@ -91,7 +88,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
 
-## ◈ Trophies
+## Trophies
 
 <br/>
 
@@ -101,7 +98,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 ---
 
-## ◈ TOP PROJECT LIST
+## TOP PROJECT LIST
 
 <div align="left">
   
@@ -120,9 +117,9 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
 
-## ◈ Support Me
+## Support Me
 
-If this project helps, you can support me here:
+If my project helps, you can support me here:
 
 [![Ko-fi](https://img.shields.io/badge/KO--FI-000000?style=for-the-badge&logo=kofi&logoColor=ffde37)](https://ko-fi.com/MatrixTM26)
 [![Trakteer](https://img.shields.io/badge/TRAKTEER-000000?style=for-the-badge&logo=buymeacoffee&logoColor=ff5837)](https://trakteer.id/MatrixTM26)

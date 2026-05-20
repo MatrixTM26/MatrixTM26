@@ -81,8 +81,6 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=e11d48&text_color=94a3b8" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatrixTM26&bg_color=0d1117&color=94a3b8&line=e11d48&point=f59e0b&area=true&area_color=e11d48&hide_border=true&radius=6" width="100%"/>
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>

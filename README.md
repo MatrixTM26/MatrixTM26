@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=500&color=94A3B8&center=true&vCenter=true&width=750&height=40&lines=%5B%2B%5D+Offensive+Security+Researcher;%5B%2B%5D+Firmware+%26+Embedded+Systems+Engineer;%5B%2B%5D+IoT+%26+Hardware+Hacker;%5B%2B%5D+Open+Source+Tool+Builder;%5B%2B%5D+Always+learning%2C+always+breaking+things.+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=500&color=00ff00&center=true&vCenter=true&width=750&height=40&lines=Offensive+Security+Researcher;Malware+Dev;Penetration+Tester;Always+Learning%2C+Always+Breaking+Things.+%E2%9A%A1" />
 
 <br/>
 
@@ -72,11 +72,15 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e11d48&text_color=94a3b8&icon_color=f59e0b" width="100%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&bg_color=00010b&title_color=e11d48&text_color=94a3b8&icon_color=800000" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatrixTM26&hide_border=true&background=0d1117&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="100%"/>
+<br />
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=e11d48&text_color=94a3b8" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatrixTM26&hide_border=true&background=00010b&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="100%"/>
+
+<br />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00010b&title_color=e11d48&text_color=94a3b8" width="100%"/>
 
 <br/>
 
@@ -88,17 +92,15 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
 
-## Trophies
+## TROPHIES
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MatrixTM26&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=MatrixTM26&theme=algolia&no-frame=true&row=2&column=4" width="100%"/>
 
 </div>
 
 ---
 
-## TOP PROJECT LIST
+## TOP PROJECT
 
 <div align="left">
   
@@ -118,7 +120,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
 
-## Support Me
+## SUPPORT ME
 
 If my project helps, you can support me here:
 

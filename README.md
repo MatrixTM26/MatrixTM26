@@ -19,7 +19,7 @@
 
 <div align="left">
 
-## About Me
+## ABOUT
 
 Security researcher & firmware developer focused on offensive security, low-level programming, and embedded systems.
 Currently working on firmware analysis & exploit development — deep-diving into reverse engineering & IoT security.
@@ -35,31 +35,22 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
 
-## Tech Stack
+## TECH STACK
 
 <br/>
-
-**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,ruby,dart,perl,java,golang,rust&perline=10&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=haskell,php,lua,bash,pwsh,crystal,js,kotlin,htmx,css&perline=10&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=haskell,php,lua,bash,pwsh,crystal,js,kotlin,ts,css&perline=10&theme=dark" />
 <br/>
-
-**Frameworks & Tools**
-
 <img src="https://skillicons.dev/icons?i=django,flask,pytorch,opencv,tensorflow,selenium,processing,npm,pnpm,arduino&perline=10&theme=dark" />
 <br/>
 <img src="https://skillicons.dev/icons?i=dotnet,docker,regex,qt,gtk,electron,git,jquery,unity,unreal&perline=10&theme=dark" />
 <br/>
 <img src="https://skillicons.dev/icons?i=react,vue,nodejs,sqlite,mysql,mongodb,postgresql,cloudflare,aws,azure&perline=10&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=vite,vitest,cmake,githubactions,bots,yarn,bun,raspberrypi,vscode,sublime&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=htmx,vite,tailwind,cmake,yarn,githubactions,bots,raspberrypi,vscode,sublime&perline=10&theme=dark" />
 <br/>
-
-**Platforms & Hardware**
-
 <img src="https://skillicons.dev/icons?i=linux,kali,arch,debian,redhat,ubuntu,windows,github,vercel,netlify&perline=10&theme=dark" />
 
 </div>
@@ -68,7 +59,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
 
-## GitHub Stats
+## STATS
 
 <br/>
 
@@ -104,12 +95,12 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
   
-[![GHOST_COMMIT](https://img.shields.io/badge/GHOST_COMMIT-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/GhostCommit)
-[![ORBITAL_VSAT](https://img.shields.io/badge/ORBITAL_VSAT-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/ORBITAL-VSAT)
-[![TOMCAT_C2](https://img.shields.io/badge/TOMCAT_C2-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/TOMCAT-C2)
-[![SHELL_BACKDOOR](https://img.shields.io/badge/SHELL_BACKDOOR-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/shell-backdoor)
+[![GHOST COMMIT](https://img.shields.io/badge/GHOST_COMMIT-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/GhostCommit)
+[![ORBITAL VSAT](https://img.shields.io/badge/ORBITAL_VSAT-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/ORBITAL-VSAT)
+[![TOMCAT C2](https://img.shields.io/badge/TOMCAT_C2-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/TOMCAT-C2)
+[![SHELL BACKDOOR](https://img.shields.io/badge/SHELL_BACKDOOR-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/shell-backdoor)
 [![NECROM4NCER](https://img.shields.io/badge/NECROM4NCER-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/Necrom4ncer)
-[![ASSAULT_XSS](https://img.shields.io/badge/ASSAULT_XSS-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/AssaultXSS)
+[![ASSAULT XSS](https://img.shields.io/badge/ASSAULT_XSS-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/AssaultXSS)
 [![HTONSPIDER](https://img.shields.io/badge/HTONSPIDER-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/HTONSpider)
 [![FUSION MAP](https://img.shields.io/badge/FUSION_MAP-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/FusionMAP)
 [![UAC20 WEBSHELL](https://img.shields.io/badge/UAC20_WEBSHELL-000000?style=for-the-badge&logo=github&logoColor=f90000)](https://github.com/MatrixTM26/UAC20-WEBSHELL)

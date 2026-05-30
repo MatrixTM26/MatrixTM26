@@ -81,16 +81,6 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 ---
 
-<div align="left">
-
-## TROPHIES
-
-<img src="https://github-trophies.vercel.app/?username=MatrixTM26&theme=algolia&no-frame=true&row=2&column=4" width="100%"/>
-
-</div>
-
----
-
 ## TOP PROJECT
 
 <div align="left">
@@ -124,6 +114,7 @@ If my project helps, you can support me here:
 ---
 
 <div align="center">
+  <img src="https://github-trophies.vercel.app/?username=MatrixTM26&theme=algolia&no-frame=true&row=2&column=4" width="100%"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/output/github-contribution-grid-snake.svg">

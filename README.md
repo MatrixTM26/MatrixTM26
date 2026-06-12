@@ -103,6 +103,7 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff88)](https://instagram.com/matrixtm26.xp)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/MatrixTM26)
+[![Email](https://img.shields.io/badge/Hackthebox-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff88)](https://profile.hackthebox.com/profile/019ebbe6-aea1-7295-9036-e07df260115d)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:anonymous.matrixtm26.dev@gmail.com)
 
 </div>

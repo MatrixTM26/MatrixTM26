@@ -4,12 +4,10 @@
 <img style="max-height: 30vh;" src="https://readme-typing-svg.demolab.com?font=Tourney&weight=200&size=30&duration=3000&pause=500&color=00ff00&center=true&vCenter=true&width=750&height=100&lines=Offensive+Security+Researcher;Ethical+Hacker;Penetration+Tester+%E2%9A%A1" />
 
 [![CYBER SECURITY](https://img.shields.io/badge/CYBER%20SECURITY-000000?style=for-the-badge&logo=letsencrypt&logoColor=00ff88)](https://github.com/MatrixTM26)
-[![SECURITY RESEARCHER](https://img.shields.io/badge/SECURITY%20RESEARCHER-000000?style=for-the-badge&logo=keepassxc&logoColor=00ff88)](https://github.com/MatrixTM26)
+[![RED TEAMING](https://img.shields.io/badge/RED%20TEAM-000000?style=for-the-badge&logo=keepassxc&logoColor=00ff88)](https://github.com/MatrixTM26)
 [![ETHICAL HACKER](https://img.shields.io/badge/ETHICAL%20HACKER-000000?style=for-the-badge&logo=mcafee&logoColor=00ff88)](https://github.com/MatrixTM26)
 
 </div>
-
----
 
 <div align="left">
 
@@ -20,7 +18,7 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
 
 </div>
 
----
+<!---
 
 <div align="left">
 
@@ -29,7 +27,6 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,ruby,dart,perl,java,golang,rust,haskell,php,lua,bash,pwsh,crystal,js,kotlin,ts,css,django,flask,pytorch,opencv,tensorflow,selenium,processing,npm,pnpm,arduino,gradle,maven,spring,wasm,elasticsearch,dotnet,docker,qt,regex,git,react,vue,nodejs,sqlite,mysql,mongodb,postgresql,cloudflare,aws,azure,htmx,vite,tailwind,cmake,yarn,githubactions,bots,raspberrypi,vscode,sublime,androidstudio,unreal,unity,atom,materialui,prometheus,gtk,linux,kali,arch,debian,redhat,windows,github,vercel&theme=dark" />
 </div>
 
----
 
 <div align="left">
 
@@ -37,21 +34,17 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
 
 <br/>
 
-<!---
-
 <img style="max-height: 50vh;" src="https://github-readme-stats.shion.dev/api?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&bg_color=00010b&title_color=e11d48&text_color=94a3b8&icon_color=800000" width="100%"/>
 <br />
 <img style="max-height: 50vh;" src="https://github-readme-streak-stats.herokuapp.com/?user=MatrixTM26&hide_border=true&background=00010b&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="100%"/>
 <br />
-
---->
 
 <img style="max-height: 50vh;" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00010b&title_color=e11d48&text_color=94a3b8" width="100%"/>
 <br/>
 <img style="max-height: 50vh;" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
----
+--->
 
 ## <img src="https://cdn.simpleicons.org/buffer/00ff88" width="20"> TOP PROJECT
 
@@ -99,11 +92,12 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
 
 --->
 
+## <img src="https://cdn.simpleicons.org/githubactions/00ff88" width="20"> CONNECT WITH ME
+
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff88)](https://instagram.com/matrixtm26.xp)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/MatrixTM26)
-[![Email](https://img.shields.io/badge/Hackthebox-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff88)](https://profile.hackthebox.com/profile/019ebbe6-aea1-7295-9036-e07df260115d)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:anonymous.matrixtm26.dev@gmail.com)
 
 </div>

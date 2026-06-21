@@ -1,5 +1,5 @@
 <div align="center">
-<img style="max-height: 30vh;" src="img/1.gif" width="100%" height="auto"/>
+<!--- <img style="max-height: 30vh;" src="img/1.gif" width="100%" height="auto"/> --->
 <img style="max-height: 30vh;" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a02c2,50:4603e7,100:5a1aff&height=150&section=header&text=MatrixTM26&fontSize=60&fontAlignY=35&animation=twinkling" width="100%"/>
 <img style="max-height: 30vh;" src="https://readme-typing-svg.demolab.com?font=Tourney&weight=200&size=30&duration=3000&pause=500&color=00ff00&center=true&vCenter=true&width=750&height=100&lines=Offensive+Security+Researcher;Ethical+Hacker;Penetration+Tester+%E2%9A%A1" />
 

@@ -18,34 +18,6 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
 
 </div>
 
-<!---
-
-<div align="left">
-
-## <img src="https://cdn.simpleicons.org/gnubash/00ff88" width="20"> TECH STACK
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,ruby,dart,perl,java,golang,rust,haskell,php,lua,bash,pwsh,crystal,js,kotlin,ts,css,django,flask,pytorch,opencv,tensorflow,selenium,processing,npm,pnpm,arduino,gradle,maven,spring,wasm,elasticsearch,dotnet,docker,qt,regex,git,react,vue,nodejs,sqlite,mysql,mongodb,postgresql,cloudflare,aws,azure,htmx,vite,tailwind,cmake,yarn,githubactions,bots,raspberrypi,vscode,sublime,androidstudio,unreal,unity,atom,materialui,prometheus,gtk,linux,kali,arch,debian,redhat,windows,github,vercel&theme=dark" />
-</div>
-
-
-<div align="left">
-
-## <img src="https://cdn.simpleicons.org/githubactions/00ff88" width="20"> STATS
-
-<br/>
-
-<img style="max-height: 50vh;" src="https://github-readme-stats.shion.dev/api?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&bg_color=00010b&title_color=e11d48&text_color=94a3b8&icon_color=800000" width="100%"/>
-<br />
-<img style="max-height: 50vh;" src="https://github-readme-streak-stats.herokuapp.com/?user=MatrixTM26&hide_border=true&background=00010b&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="100%"/>
-<br />
-
-<img style="max-height: 50vh;" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00010b&title_color=e11d48&text_color=94a3b8" width="100%"/>
-<br/>
-<img style="max-height: 50vh;" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
-
---->
-
 ## <img src="https://cdn.simpleicons.org/buffer/00ff88" width="20"> TOP PROJECT
 
 <div align="left">
@@ -64,21 +36,37 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
 
 </div>
 
-<!---
+## <img src="https://cdn.simpleicons.org/githubactions/00ff88" width="20"> CONNECT WITH ME
 
-<div align="left">
+<div align="center">
 
-## <img src="https://cdn.simpleicons.org/githubsponsors/00ff88" width="20"> SUPPORT
-
-[![Ko-fi](https://img.shields.io/badge/KO--FI-000000?style=for-the-badge&logo=kofi&logoColor=ffe63a)](https://ko-fi.com/MatrixTM26)
-[![Trakteer](https://img.shields.io/badge/TRAKTEER-000000?style=for-the-badge&logo=buymeacoffee&logoColor=ff5050)](https://trakteer.id/MatrixTM26)
-[![PayPal](https://img.shields.io/badge/PAYPAL-000000?style=for-the-badge&logo=paypal&logoColor=0000ff)](https://paypal.me/TeukuMaulana)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff88)](https://instagram.com/matrixtm26.xp)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/MatrixTM26)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:anonymous.matrixtm26.dev@gmail.com)
 
 </div>
 
---->
+<details>
+<summary>MORE</summary>
+<div align="left">
 
-<!---
+## <img src="https://cdn.simpleicons.org/gnubash/00ff88" width="20"> TECH STACK
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,ruby,dart,perl,java,golang,rust,haskell,php,lua,bash,pwsh,crystal,js,kotlin,ts,css,django,flask,pytorch,opencv,tensorflow,selenium,processing,npm,pnpm,arduino,gradle,maven,spring,wasm,elasticsearch,dotnet,docker,qt,regex,git,react,vue,nodejs,sqlite,mysql,mongodb,postgresql,cloudflare,aws,azure,htmx,vite,tailwind,cmake,yarn,githubactions,bots,raspberrypi,vscode,sublime,androidstudio,unreal,unity,atom,materialui,prometheus,gtk,linux,kali,arch,debian,redhat,windows,github,vercel&theme=dark" />
+</div>
+<div align="left">
+
+## <img src="https://cdn.simpleicons.org/githubactions/00ff88" width="20"> STATS
+
+<br/>
+<img style="max-height: 50vh;" src="https://github-readme-stats.shion.dev/api?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&bg_color=00010b&title_color=e11d48&text_color=94a3b8&icon_color=800000" width="100%"/>
+<br />
+<img style="max-height: 50vh;" src="https://github-readme-streak-stats.herokuapp.com/?user=MatrixTM26&hide_border=true&background=00010b&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="100%"/>
+<br />
+<img style="max-height: 50vh;" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00010b&title_color=e11d48&text_color=94a3b8" width="100%"/>
+<br/>
+<img style="max-height: 50vh;" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=MatrixTM26&theme=algolia&no-frame=true&row=2&column=4" width="100%"/>
@@ -89,15 +77,4 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
   </picture>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a02c2,50:4603e7,100:5a1aff&height=130&section=footer&animation=twinkling" width="100%"/>
 </div>
-
---->
-
-## <img src="https://cdn.simpleicons.org/githubactions/00ff88" width="20"> CONNECT WITH ME
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff88)](https://instagram.com/matrixtm26.xp)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/MatrixTM26)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:anonymous.matrixtm26.dev@gmail.com)
-
-</div>
+</details>

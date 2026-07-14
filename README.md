@@ -18,6 +18,9 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
 
 </div>
 
+<details>
+<summary>OPEN</summary>
+
 ## <img src="https://cdn.simpleicons.org/buffer/00ff88" width="20"> TOP PROJECT
 
 <div align="left">
@@ -46,9 +49,10 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:anonymous.matrixtm26.dev@gmail.com)
 
 </div>
+</details>
 
 <details>
-<summary>MORE</summary>
+<summary>OPEN</summary>
 <div align="left">
 
 ## <img src="https://cdn.simpleicons.org/gnubash/00ff88" width="20"> TECH STACK
@@ -76,6 +80,9 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/output/github-contribution-grid-snake.svg">
     <img alt="snake gif" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a02c2,50:4603e7,100:5a1aff&height=130&section=footer&animation=twinkling" width="100%"/>
-</div>
+  </div>
 </details>
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a02c2,50:4603e7,100:5a1aff&height=130&section=footer&animation=twinkling" width="100%"/>
+</div>

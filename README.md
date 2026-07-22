@@ -64,13 +64,13 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
 ## <img src="https://cdn.simpleicons.org/githubactions/00ff88" width="20"> STATS
 
 <br/>
-<img style="max-height: 50vh;" src="https://github-readme-stats.shion.dev/api?username=MatrixTM26&hide_border=false&include_all_commits=true&count_private=false&bg_color=00010b&title_color=e11d48&text_color=94a3b8&icon_color=800000" width="100%"/>
+<img style="max-height: 50vh;" src="https://github-readme-stats.shion.dev/api?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=false&bg_color=00010b&title_color=e11d48&text_color=94a3b8&icon_color=800000" width="100%"/>
 <br />
 <img style="max-height: 50vh;" src="https://github-readme-streak-stats.herokuapp.com/?user=MatrixTM26&hide_border=true&background=00010b&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="100%"/>
 <br />
-<img style="max-height: 50vh;" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MatrixTM26&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=00010b&title_color=e11d48&text_color=94a3b8" width="100%"/>
+<img style="max-height: 50vh;" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=00010b&title_color=e11d48&text_color=94a3b8" width="100%"/>
 <br/>
-<img style="max-height: 50vh;" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" />
+<img style="max-height: 50vh;" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
 <div align="center">

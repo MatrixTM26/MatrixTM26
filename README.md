@@ -57,7 +57,7 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
 
 ## <img src="https://cdn.simpleicons.org/gnubash/00ff88" width="20"> TECH STACK
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,ruby,dart,perl,java,golang,rust,haskell,php,lua,bash,pwsh,crystal,js,kotlin,ts,css,django,flask,pytorch,opencv,tensorflow,selenium,processing,npm,pnpm,arduino,gradle,maven,spring,wasm,elasticsearch,dotnet,docker,qt,regex,git,react,vue,nodejs,sqlite,mysql,mongodb,postgresql,cloudflare,aws,azure,htmx,vite,tailwind,cmake,yarn,githubactions,bots,raspberrypi,vscode,sublime,androidstudio,unreal,unity,atom,materialui,prometheus,gtk,linux,kali,arch,debian,redhat,windows,github,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,ruby,dart,perl,python,golang,rust,haskell,php,lua,bash,pwsh,crystal,js,kotlin,ts,css,django,flask,pytorch,opencv,tensorflow,selenium,processing,npm,pnpm,arduino,gradle,maven,spring,wasm,elasticsearch,dotnet,docker,qt,regex,git,react,vue,nodejs,sqlite,mysql,mongodb,postgresql,cloudflare,aws,azure,htmx,vite,tailwind,cmake,yarn,githubactions,bots,raspberrypi,vscode,sublime,androidstudio,unreal,unity,atom,materialui,prometheus,gtk,linux,kali,arch,debian,redhat,windows,github,vercel&theme=dark" />
 </div>
 <div align="left">
 
@@ -69,8 +69,10 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
 <img style="max-height: 50vh;" src="https://github-readme-streak-stats.herokuapp.com/?user=MatrixTM26&hide_border=true&background=00010b&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="100%"/>
 <br />
 <img style="max-height: 50vh;" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=00010b&title_color=e11d48&text_color=94a3b8" width="100%"/>
+<!---
 <br/>
 <img style="max-height: 50vh;" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+--->
 </div>
 
 <div align="center">

@@ -39,16 +39,17 @@ Currently working on security research and software development. Deep-diving int
 | <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [TOMCAT-C2](https://github.com/MatrixTM26/TOMCAT-C2)           | Lightweigt adversary emulation (Command and Control server) framework for managing remote agents. Built for red team simulation operations and research purposes                       |
 | <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [HellcatAPI](https://github.com/MatrixTM26/HellcatAPI)         | Backend api and fast serve http framework build with java                                                                                             |
 | <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [VSAT](https://github.com/MatrixTM26/VSAT)                     | Multi-layer network stress testing toolkit with various methods available.                                                                            |
-| <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [AssaultXSS](https://github.com/MatrixTM26/AssaultXSS)         | XSS vulnerability scanner for web application security auditing. Automates detection of cross-site scripting vulnerabilities in web targets.          |
+| <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [Atmosphere](https://github.com/MatrixTM26/Atmosphere)         | IP Tracker (OSINT), geolocation, device fingerprinting, and network diagnostics tool                                                                  |
 | <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [REVERSE-SHELL](https://github.com/MatrixTM26/reverse-shell)   | List of reverse shell script                                                                                                                          |
-| <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [DEMON](https://github.com/MatrixTM26/demon)                   | Network load testing tool                                                                                                                             |
+| <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [DEMON](https://github.com/MatrixTM26/demon)                   | Network stress testing tool                                                                                                                           |
+| <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [STRIKER](https://github.com/MatrixTM26/striker)               | ESP32 wireless penetration testing firmware                                                                                                           |
 | <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [HTONSpider](https://github.com/MatrixTM26/HTONSpider)         | Networking toolkit for analyzing, tracing, and filtering active proxies. Identifies and validates proxy chains for anonymization research.            |
 | <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [GhostCommit](https://github.com/MatrixTM26/GhostCommit)       | Automation tool built for auto commit and fill your GitHub contribution graph. Schedule commits silently and keep your activity consistent.           |
 
 </div>
 
 <details>
-<summary><b><i>Open more options</i></b></summary>
+<summary><b><i>Techstack and platform</i></b></summary>
 <div align="left">
 
 ## <img src="https://cdn.simpleicons.org/gnubash/00ff88" width="20"> TECH STACK

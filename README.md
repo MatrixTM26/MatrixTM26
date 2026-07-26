@@ -5,25 +5,29 @@
 --->
 
 <img style="max-height: 30vh;" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a02c2,50:4603e7,100:5a1aff&height=150&section=header&text=MatrixTM26&fontSize=60&fontAlignY=35&animation=twinkling" width="100%"/>
+
+<!---
 <img style="max-height: 30vh;" src="https://readme-typing-svg.demolab.com?font=Tourney&weight=200&size=30&duration=3000&pause=500&color=00ff00&center=true&vCenter=true&width=750&height=100&lines=Offensive+Security+Researcher;Ethical+Hacker;Penetration+Tester+%E2%9A%A1" />
 
 [![CYBER SECURITY](https://img.shields.io/badge/CYBER%20SECURITY-000000?style=for-the-badge&logo=letsencrypt&logoColor=00ff88)](https://github.com/MatrixTM26)
 [![RED TEAMING](https://img.shields.io/badge/RED%20TEAM-000000?style=for-the-badge&logo=keepassxc&logoColor=00ff88)](https://github.com/MatrixTM26)
 [![ETHICAL HACKER](https://img.shields.io/badge/ETHICAL%20HACKER-000000?style=for-the-badge&logo=mcafee&logoColor=00ff88)](https://github.com/MatrixTM26)
+--->
 
 </div>
 
 <div align="left">
 
 ## <img src="https://cdn.simpleicons.org/github/00ff88" width="20"> ABOUT
+Hi 👋🏻, im MatrixTM26
 
-Security researcher & firmware developer focused on offensive security, low-level programming, and embedded systems.
-Currently working on firmware analysis & exploit development. Deep-diving into reverse engineering & system security.
+Security researcher, red teamer and firmware developer.
+
+Interest on red teaming, low-level programming, embedded systems, bio-technologies, aeromodelling, aerospace, radiology, electrical engineering, mechanical engineering and computer science.
+
+Currently working on security research and software development. Deep-diving into reverse engineering and system security.
 
 </div>
-
-<details>
-<summary>OPEN</summary>
 
 ## <img src="https://cdn.simpleicons.org/buffer/00ff88" width="20"> TOP PROJECT
 
@@ -32,31 +36,19 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
 | NAME                                                                                                                                | DESCRIPTION                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [RAVEN](https://github.com/MatrixTM26/RAVEN)                   | Adversary emulation (Command and Control server) framework for managing remote agents. Built for red team simulation operations and research purposes |
-| <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [TOMCAT-C2](https://github.com/MatrixTM26/TOMCAT-C2)           | Command and Control server framework for managing remote agents. Built for red team simulation operations and research purposes                       |
+| <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [TOMCAT-C2](https://github.com/MatrixTM26/TOMCAT-C2)           | Lightweigt adversary emulation (Command and Control server) framework for managing remote agents. Built for red team simulation operations and research purposes                       |
 | <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [HellcatAPI](https://github.com/MatrixTM26/HellcatAPI)         | Backend api and fast serve http framework build with java                                                                                             |
 | <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [VSAT](https://github.com/MatrixTM26/VSAT)                     | Multi-layer network stress testing toolkit with various methods available.                                                                            |
 | <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [AssaultXSS](https://github.com/MatrixTM26/AssaultXSS)         | XSS vulnerability scanner for web application security auditing. Automates detection of cross-site scripting vulnerabilities in web targets.          |
-| <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [SHELL-BACKDOOR](https://github.com/MatrixTM26/shell-backdoor) | List of shell backdoor script                                                                                                                         |
-| <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [HTONMapper](https://github.com/MatrixTM26/HTONMapper)         | Networking toolkit for analyzing network. Identifies and validates network anonymization research.                                                    |
-| <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [UAC20](https://github.com/MatrixTM26/UAC20)                   | PHP Webshell backdoor for website penetration testing                                                                                                 |
+| <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [REVERSE-SHELL](https://github.com/MatrixTM26/reverse-shell)   | List of reverse shell script                                                                                                                          |
+| <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [DEMON](https://github.com/MatrixTM26/demon)                   | Network load testing tool                                                                                                                             |
 | <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [HTONSpider](https://github.com/MatrixTM26/HTONSpider)         | Networking toolkit for analyzing, tracing, and filtering active proxies. Identifies and validates proxy chains for anonymization research.            |
 | <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [GhostCommit](https://github.com/MatrixTM26/GhostCommit)       | Automation tool built for auto commit and fill your GitHub contribution graph. Schedule commits silently and keep your activity consistent.           |
 
 </div>
 
-## <img src="https://cdn.simpleicons.org/githubactions/00ff88" width="20"> CONNECT WITH ME
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff88)](https://instagram.com/matrixtm26.xp)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/MatrixTM26)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:anonymous.matrixtm26.dev@gmail.com)
-
-</div>
-</details>
-
 <details>
-<summary>OPEN</summary>
+<summary><b><i>Open more options</i></b></summary>
 <div align="left">
 
 ## <img src="https://cdn.simpleicons.org/gnubash/00ff88" width="20"> TECH STACK
@@ -91,6 +83,16 @@ Currently working on firmware analysis & exploit development. Deep-diving into r
   
   </div>
 </details>
+
+## <img src="https://cdn.simpleicons.org/githubactions/00ff88" width="20"> CONNECT WITH ME
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff88)](https://instagram.com/matrixtm26.xp)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/MatrixTM26)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:anonymous.matrixtm26.dev@gmail.com)
+
+</div>
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a02c2,50:4603e7,100:5a1aff&height=130&section=footer&animation=twinkling" width="100%"/>

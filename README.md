@@ -18,9 +18,7 @@
 
 <div align="left">
 
-## <img src="https://cdn.simpleicons.org/github/00ff88" width="20"> ABOUT
-Hi 👋🏻, im MatrixTM26
-
+#### <img src="https://cdn.simpleicons.org/github/00ff88" width="20"> ABOUT
 Security researcher, red teamer and firmware developer.
 
 Interest on red teaming, low-level programming, embedded systems, bio-technologies, aeromodelling, aerospace, radiology, electrical engineering, mechanical engineering and computer science.
@@ -29,6 +27,7 @@ Currently working on security research and software development. Deep-diving int
 
 </div>
 
+<!---
 ## <img src="https://cdn.simpleicons.org/buffer/00ff88" width="20"> TOP PROJECT
 
 <div align="left">
@@ -47,18 +46,19 @@ Currently working on security research and software development. Deep-diving int
 | <img src="https://cdn.simpleicons.org/stackblitz/00ff88" width="20"> [GhostCommit](https://github.com/MatrixTM26/GhostCommit)       | Automation tool built for auto commit and fill your GitHub contribution graph. Schedule commits silently and keep your activity consistent.           |
 
 </div>
+--->
 
 <details>
 <summary><b><i>Techstack and platform</i></b></summary>
 <div align="left">
 
-## <img src="https://cdn.simpleicons.org/gnubash/00ff88" width="20"> TECH STACK
+#### <img src="https://cdn.simpleicons.org/gnubash/00ff88" width="20"> TECH STACK
 
 <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,nim,golang,rust,haskell,php,lua,bash,pwsh,crystal,ruby,dart,perl,python,zig,js,kotlin,ts,css,scss,htmx,html,svg,maven,spring,gradle,cmake,dotnet,plan9,django,flask,processing,npm,pnpm,arduino,wasm,docker,regex,git,react,vue,nodejs,sqlite,mysql,mongodb,postgresql,cloudflare,aws,azure,vite,tailwind,yarn,githubactions,bots,raspberrypi,vscode,sublime,idea,neovim,codepen,androidstudio,unreal,unity,materialui,github,gitlab,linux,kali,arch,debian,redhat,windows&theme=dark" />
 </div>
 <div align="left">
 
-## <img src="https://cdn.simpleicons.org/githubactions/00ff88" width="20"> STATS
+#### <img src="https://cdn.simpleicons.org/githubactions/00ff88" width="20"> STATS
 
 <br/>
 <img style="max-height: 50vh;" src="https://github-readme-stats.shion.dev/api?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=false&bg_color=00010b&title_color=e11d48&text_color=94a3b8&icon_color=800000" width="100%"/>
@@ -85,7 +85,7 @@ Currently working on security research and software development. Deep-diving int
   </div>
 </details>
 
-## <img src="https://cdn.simpleicons.org/githubactions/00ff88" width="20"> CONNECT WITH ME
+#### <img src="https://cdn.simpleicons.org/githubactions/00ff88" width="20"> CONNECT WITH ME
 
 <div align="center">
 

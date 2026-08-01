@@ -1,8 +1,6 @@
 <div align="center">
 
-<!---
 <img style="max-height: 30vh;" src="img/1.gif" width="100%" height="auto"/>
---->
 
 <img style="max-height: 30vh;" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a02c2,50:4603e7,100:5a1aff&height=150&section=header&text=MatrixTM26&fontSize=60&fontAlignY=35&animation=twinkling" width="100%"/>
 
@@ -49,12 +47,12 @@ Currently working on security research and software development. Deep-diving int
 --->
 
 <details>
-<summary><b><i>Techstack and platform</i></b></summary>
+<summary><b><i>Techstack, platform and stats</i></b></summary>
 <div align="left">
 
 #### <img src="https://cdn.simpleicons.org/gnubash/00ff88" width="20"> TECH STACK
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,nim,golang,rust,haskell,php,lua,bash,pwsh,crystal,ruby,dart,perl,python,zig,js,kotlin,ts,css,scss,htmx,html,svg,maven,spring,gradle,cmake,dotnet,plan9,django,flask,processing,npm,pnpm,arduino,wasm,docker,regex,git,react,vue,nodejs,sqlite,mysql,mongodb,postgresql,cloudflare,aws,azure,vite,tailwind,yarn,githubactions,bots,raspberrypi,vscode,sublime,idea,neovim,codepen,androidstudio,unreal,unity,materialui,github,gitlab,linux,kali,arch,debian,redhat,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,nim,golang,rust,haskell,php,lua,bash,pwsh,crystal,ruby,dart,perl,python,zig,js,kotlin,ts,css,scss,htmx,html,svg,maven,spring,gradle,cmake,dotnet,plan9,django,flask,processing,npm,pnpm,arduino,wasm,docker,regex,git,react,vue,nodejs,pytorch,tensorflow,opencv,matlab,terraform,selenium,sqlite,mysql,mongodb,postgresql,cloudflare,aws,azure,stackoverflow,vite,tailwind,yarn,atom,electron,qt,elasticsearch,flutter,githubactions,bots,raspberrypi,vscode,visualstudio,sublime,idea,clion,neovim,codepen,androidstudio,autocad,unreal,unity,materialui,github,gitlab,linux,kali,arch,debian,redhat,windows&theme=dark" />
 </div>
 <div align="left">
 

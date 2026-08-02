@@ -17,11 +17,11 @@
 <div align="left">
 
 <h5><b><i><img src="https://cdn.simpleicons.org/github/00ff88" width="20"> ABOUT</i></b></h5>
-<p>Security researcher, red teamer and firmware developer.</p>
+<p><b><i>Security researcher, red teamer and firmware developer.<i/></b></p>
 
-<p>Interest on red teaming, low-level programming, embedded systems, bio-technologies, aeromodelling, aerospace, radiology, electrical engineering, mechanical engineering and computer science.</p>
+<p><b><i>Interest on red teaming, low-level programming, embedded systems, bio-technologies, aeromodelling, aerospace, radiology, electrical engineering, mechanical engineering and computer science.<i/></b></p>
 
-<p>Currently working on security research and software development. Deep-diving into reverse engineering and system security.</p>
+<p><b><i>Currently working on security research and software development. Deep-diving into reverse engineering and system security.<i/></b></p>
 
 </div>
 

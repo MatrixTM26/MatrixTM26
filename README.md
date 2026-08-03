@@ -125,8 +125,10 @@
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff88" />
 </a>
 <a href="https://t.me/MatrixTM26">
-  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88" /></a>
-<a href="mailto:anonymous.matrixtm26.dev@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88" />
+</a>
+<a href="https://x.com/_MatrixTM26">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00ff88" />
 </a>
 </div>
 

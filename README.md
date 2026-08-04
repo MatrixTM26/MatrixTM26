@@ -65,7 +65,7 @@
 <summary>
   <b>
     <i>
-      Techstack, platform and stats
+      Techstack, Platform and Stats
     </i>
   </b>
 </summary>

@@ -102,12 +102,7 @@
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=MatrixTM26&theme=algolia&no-frame=true&row=2&column=4" width="100%"/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/output/github-contribution-grid-snake.svg">
-    <img alt="snake gif" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-  </div>
+</div>
 </details>
 
 <h5>
@@ -131,5 +126,10 @@
 </div>
 
 <div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/output/github-contribution-grid-snake.svg">
+        <img alt="snake gif" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/output/github-contribution-grid-snake.svg" width="100%" />
+    </picture>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4603fe,100:00ff00&height=130&section=footer&animation=twinkling" width="100%"/>
 </div>

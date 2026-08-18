@@ -102,13 +102,11 @@
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=MatrixTM26&theme=algolia&no-frame=true&row=2&column=4" width="100%"/>
-  <!---
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/output/github-contribution-grid-snake.svg">
     <img alt="snake gif" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
-  --->
   </div>
 </details>
 

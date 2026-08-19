@@ -6,34 +6,35 @@
 ###
 
 <p align="left">
-  Interested in red teaming, low-level programming, embedded systems, bio-technologies,
-  aeromodelling, aerospace, radiology, electrical engineering, mechanical engineering,
-  and computer science.<br/><br/>
-  Currently working on security research and software development —
-  deep-diving into reverse engineering and system security.
+    <b>
+        <i>
+            Interested in red teaming, low-level programming, embedded systems, bio-technologies, aeromodelling, aerospace, radiology, electrical engineering, mechanical engineering, and computer science.<br/><br/>
+            Currently working on security research and software development — deep-diving into reverse engineering and system security.
+        </i>
+    </b>
 </p>
 
-<hr>
+###
 
 <div align="center">
-  <img style="max-height: 50vh;" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/galaga-contribution-graph-dark.svg?game=galaga"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/galaga-contribution-graph.svg?game=galaga"
-    />
-    <img
-      alt="Galaga contribution graph"
-      src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/galaga-contribution-graph.svg?game=galaga"
-    />
-  </picture>
+    <img style="max-height: 50vh;" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+    <picture>
+        <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/galaga-contribution-graph-dark.svg?game=galaga"
+        />
+        <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/galaga-contribution-graph.svg?game=galaga"
+        />
+        <img
+            alt="Galaga contribution graph"
+            src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/galaga-contribution-graph.svg?game=galaga"
+        />
+    </picture>
 </div>
 
-<hr>
+###
 
 <div align="center">
     <a href="https://instagram.com/matrixtm26.xp">

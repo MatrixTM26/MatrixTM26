@@ -1,6 +1,9 @@
-<div align="center">
-<img style="max-height: 30vh;" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4603fe,100:00ff00&height=150&section=header&text=MatrixTM26&fontSize=60&fontAlignY=35&animation=twinkling" width="100%"/>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
+
+###
+
 <div align="left">
 <h2>
   <b>
@@ -17,3 +20,11 @@
   </b>
 </h5>
 </div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatrixTM26 /MatrixTM26 /pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatrixTM26 /MatrixTM26 /pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatrixTM26 /MatrixTM26 /pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>

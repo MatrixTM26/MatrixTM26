@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="border-radius: 15px; border: 2px solid #0f0f0f; transform: rotate(0deg);" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMHhnanRjeWh4bDYxNHlnMTFhZnp4MTk0aXN1eXc5eWZwbDdiODNtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WjGSZoU6SCb29I8gLs/giphy.gif" alt="header gif" />
+    <img style="border-radius: 15px; border: 2px solid #0f0f0f; transform: rotate(0deg);" width="200" src="img/1.gif" alt="header gif" />
     <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=600&size=30&duration=5000&pause=500&color=fc8b01&center=true&vCenter=true&width=750&height=100&lines=Hi+there!+I'm+MatrixTM26;Red+Teamer;Firmware+Developer" width="100%" />
 </div>
 
@@ -20,7 +20,6 @@
 
 
 <div align="center">
-    <!---
     <img style="max-height: 50vh;" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
     <picture>
         <source
@@ -36,12 +35,13 @@
             src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/galaga-contribution-graph.svg?game=galaga"
         />
     </picture>
-    --->
+    <!---
     <br clear="both">
     <img
         alt="pacman contribution graph"
         src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/pacman-contribution-graph-dark.svg"
     />
+    --->
 </div>
 
 ###

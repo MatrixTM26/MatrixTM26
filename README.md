@@ -33,7 +33,9 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/galaga-contribution-graph.svg?game=galaga"
         />
-        <br clear="both">
+    </picture>
+    <br clear="both">
+    <picture>
         <img
             alt="Galaga contribution graph"
             src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/galaga-contribution-graph.svg?game=galaga"

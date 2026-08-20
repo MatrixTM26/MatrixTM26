@@ -23,6 +23,7 @@
     <!---
     <img style="max-height: 50vh;" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
     --->
+    <br clear="both">
     <picture>
         <source
             media="(prefers-color-scheme: dark)"
@@ -32,13 +33,13 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/galaga-contribution-graph.svg?game=galaga"
         />
+        <br clear="both">
         <img
             alt="Galaga contribution graph"
             src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/galaga-contribution-graph.svg?game=galaga"
         />
     </picture>
     <!---
-    <br clear="both">
     <img
         alt="pacman contribution graph"
         src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/pacman-contribution-graph-dark.svg"

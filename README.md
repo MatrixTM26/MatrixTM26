@@ -1,12 +1,12 @@
 <div align="center">
     <h3 align="center" style="color: #ffffff; text-shadow: 2px 2px 2px #1e1e1e;" >
-        <b><span style="color: #25ff25; text-shadow: 2px 2px 2px #1e1e1e;">&boxbox;&nbsp;</span>ABOUT</b>
+        <b>Hi there👋 I'm MatrixTM26</b>
     </h3>
 </div>
 
 <div align="center">
     <img style="border-radius: 15px; border: 2px solid #0f0f0f; transform: rotate(0deg);" width="100%" src="img/1.gif" alt="header gif" />
-    <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=600&size=30&duration=5000&pause=500&color=25ff25&center=true&vCenter=true&width=750&height=100&lines=Hi+there!+I'm+MatrixTM26;Red+Teamer;Firmware+Developer" width="100%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=600&size=30&duration=5000&pause=500&color=25ff25&center=true&vCenter=true&width=750&height=100&lines=Security+Researcher;Red+Teamer;Firmware+Developer" width="100%" />
 </div>
 
 <div align="center" style="border-radius: 10px; border-left: 4px solid #0f0f0f; border-bottom: 4px solid #0f0f0f; border-right: 4px solid #ffffff; border-top: 4px solid #ffffff; transform: rotate(0deg); padding: 1rem;" >

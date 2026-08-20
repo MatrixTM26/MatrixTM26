@@ -1,5 +1,5 @@
 <div align="center">
-    <h3 align="left" style="color: #ffffff; text-shadow: 2px 2px 2px #1e1e1e;" >
+    <h3 align="center" style="color: #ffffff; text-shadow: 2px 2px 2px #1e1e1e;" >
         <b><span style="color: #25ff25; text-shadow: 2px 2px 2px #1e1e1e;">&boxbox;&nbsp;</span>ABOUT</b>
     </h3>
 </div>
@@ -8,8 +8,6 @@
     <img style="border-radius: 15px; border: 2px solid #0f0f0f; transform: rotate(0deg);" width="100%" src="img/1.gif" alt="header gif" />
     <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=600&size=30&duration=5000&pause=500&color=25ff25&center=true&vCenter=true&width=750&height=100&lines=Hi+there!+I'm+MatrixTM26;Red+Teamer;Firmware+Developer" width="100%" />
 </div>
-
-<hr>
 
 <div align="center" style="border-radius: 10px; border-left: 4px solid #0f0f0f; border-bottom: 4px solid #0f0f0f; border-right: 4px solid #ffffff; border-top: 4px solid #ffffff; transform: rotate(0deg); padding: 1rem;" >
     <p align="left" style="color: #ffffff; text-shadow: 2px 2px 2px #2b006f;" >
@@ -25,14 +23,14 @@
 <hr>
 
 <div align="center">
-    <h3 align="left" style="color: #ffffff; text-shadow: 2px 2px 2px #1e1e1e;" >
+    <h3 align="center" style="color: #ffffff; text-shadow: 2px 2px 2px #1e1e1e;" >
         <b><span style="color: #25ff25; text-shadow: 2px 2px 2px #1e1e1e;">&boxbox;&nbsp;</span>CONTRIBUTIONS</b>
     </h3>
 </div>
 
 <div align="center">
     <img style="max-height: 50vh;" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-    <hr>
+    <br>
     <picture>
         <img
             alt="Galaga contribution graph"
@@ -50,7 +48,7 @@
 <hr>
 
 <div align="center">
-    <h3 align="left" style="color: #ffffff; text-shadow: 2px 2px 2px #1e1e1e;" >
+    <h3 align="center" style="color: #ffffff; text-shadow: 2px 2px 2px #1e1e1e;" >
         <b><span style="color: #25ff25; text-shadow: 2px 2px 2px #1e1e1e;">&boxbox;&nbsp;</span>CONNECT WITH ME</b>
     </h3>
 </div>
@@ -70,5 +68,5 @@
 <hr>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=MatrixTM26&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile View" />
+    <img src="https://komarev.com/ghpvc/?username=MatrixTM26&label=PROFILE%20VIEWS&color=000000&style=flat" alt="Profile View" />
 </div>

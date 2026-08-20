@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="border-radius: 15px; border: 2px solid #0f0f0f; transform: rotate(0deg);" width="200" src="img/1.gif" alt="header gif" />
+    <img style="border-radius: 15px; border: 2px solid #0f0f0f; transform: rotate(0deg);" width="100%" src="img/1.gif" alt="header gif" />
     <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=600&size=30&duration=5000&pause=500&color=fc8b01&center=true&vCenter=true&width=750&height=100&lines=Hi+there!+I'm+MatrixTM26;Red+Teamer;Firmware+Developer" width="100%" />
 </div>
 

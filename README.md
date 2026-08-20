@@ -58,4 +58,5 @@
     <a href="https://x.com/_MatrixTM26">
         <img style="border-radius: 10px; border: 2px solid #0f0f0f; transform: rotate(0deg); margin: 0.1rem;" src="https://img.shields.io/badge/@__MatrixTM26-000000?style=for-the-badge&logo=x&logoColor=00ff88" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=MatrixTM26&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile View" />
 </div>

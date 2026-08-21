@@ -118,7 +118,7 @@
             <i>
                 powered by 
                 <span style="color: #ff0000; text-shadow: 2px 2px 2px #1e1e1e;">
-                    &lt;lamb of code/&gt;
+                    &lt;code/&gt;
                 </span>
             </i>
         </b>
@@ -126,10 +126,10 @@
     <p align="center" style="color: #ffffff; text-shadow: 2px 2px 2px #1e1e1e;">
         <b>
             <i>
-                checkout our organization at  
+                checkout our organization:   
                 <span style="color: #ff0000; text-shadow: 2px 2px 2px #1e1e1e;">
-                    <a href="https://github.com/emperor-sec" target="_blank" style="text-decoration: none;">
-                        @emperor-sec
+                    <a href="https://github.com/empsec" target="_blank" style="text-decoration: none;">
+                        @empsec
                     </a>
                 </span>
             </i>

@@ -131,7 +131,7 @@
             <i>
                 powered by 
                 <span style="color: #ff0000; text-shadow: 2px 2px 2px #1e1e1e;">
-                    &lt;code/&gt;
+                    &lt;mind/&gt;
                 </span>
             </i>
         </b>

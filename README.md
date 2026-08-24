@@ -16,9 +16,8 @@
     <p align="left" style="color: #ffffff; text-shadow: 2px 2px 2px #2b006f;">
         <b>
             <i>
-                Hi there👋 I'm MatrixTM26<br><br>
-                Interested in red teaming, low-level programming, embedded systems, bio-technologies, aeromodelling, aerospace, radiology, electrical engineering, mechanical engineering, and computer science.<br/><br/>
-                Currently working on security research and software development — deep-diving into reverse engineering and system security.
+                Hi there👋 I'm MatrixTM26<br>
+                Interested in red teaming, low-level programming, embedded systems, bio-technologies, aeromodelling, aerospace, radiology, electrical engineering, mechanical engineering, and computer science.
             </i>
         </b>
     </p>
@@ -39,7 +38,13 @@
 </div>
 <br>
 <details>
-    <summary><b><i>show more options</i></b></summary>
+    <summary>
+        <b>
+            <i>
+                show more options
+            </i>
+        </b>
+    </summary>
     <br>
     <div align="center">
         <img style="max-height: 50vh;" src="https://github-readme-streak-stats.herokuapp.com/?user=MatrixTM26&hide_border=true&background=00010b&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="100%"/>
@@ -90,17 +95,17 @@
 </div>
 <div align="center">
     <a href="https://instagram.com/matrixtm26.xp">
-        <img style="border-radius: 10px; border: 2px solid #0f0f0f; transform: rotate(0deg); margin: 0.1rem;" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=00ff88" />
+        <img style="border-radius: 10px; border: 2px solid #0f0f0f; transform: rotate(0deg); margin: 0.1rem;" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=00ff88" width="50px" />
     </a>
     &nbsp;
     &nbsp;
     <a href="https://t.me/MatrixTM26">
-        <img style="border-radius: 10px; border: 2px solid #0f0f0f; transform: rotate(0deg); margin: 0.1rem;" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=telegram&logoColor=00ff88" />
+        <img style="border-radius: 10px; border: 2px solid #0f0f0f; transform: rotate(0deg); margin: 0.1rem;" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=telegram&logoColor=00ff88" width="50px" />
     </a>
     &nbsp;
     &nbsp;
     <a href="https://x.com/_MatrixTM26">
-        <img style="border-radius: 10px; border: 2px solid #0f0f0f; transform: rotate(0deg); margin: 0.1rem;" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=00ff88" />
+        <img style="border-radius: 10px; border: 2px solid #0f0f0f; transform: rotate(0deg); margin: 0.1rem;" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=00ff88" width="50px" />
     </a>
 </div>
 

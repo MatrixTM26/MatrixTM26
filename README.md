@@ -16,16 +16,4 @@
         </i>
     </p>
 </div>
-<br>
-<div align="center">
-    <p align="center" style="color: #ffffff; text-shadow: 2px 2px 2px #1e1e1e;">
-        <b>
-            <i>
-                powered by 
-                <span style="color: #ff0000; text-shadow: 2px 2px 2px #1e1e1e;">
-                    &lt;mind/&gt;
-                </span>
-            </i>
-        </b>
-    </p>
-</div>
+

@@ -36,7 +36,7 @@
     </h3>
 </div>
 <div align="center">
-    <img style="max-height: 50vh;" src="https://github-readme-stats.shion.dev/api?username=MatrixTM26&hide_border=true&include_all_commits=true&count_private=true&bg_color=00010b&title_color=e11d48&text_color=94a3b8&icon_color=800000" width="100%"/>
+    <img style="max-height: 50vh;" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 <details>
     <summary>
@@ -47,8 +47,8 @@
         </b>
     </summary>
     <div align="center">
+        <img style="max-height: 50vh;" src="https://github-readme-stats.shion.dev/api?username=MatrixTM26&hide_border=false&include_all_commits=true&count_private=true&bg_color=00010b&title_color=e11d48&text_color=94a3b8&icon_color=800000" width="100%"/>
         <img style="max-height: 50vh;" src="https://github-readme-streak-stats.herokuapp.com/?user=MatrixTM26&hide_border=true&background=00010b&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="100%"/>
-        <img style="max-height: 50vh;" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
         <picture>
             <img
                 alt="Galaga contribution graph"
@@ -58,7 +58,7 @@
         <!---
         <img
             alt="pacman contribution graph"
-            src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/pacman-contribution-graph-dark.svg"
+            src"https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/pacman-output/pacman-contribution-graph-dark.svg"
         />
         --->
     </div>
@@ -104,11 +104,12 @@
     </a>
 </div>
 
-<!---
+<br>
+
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=MatrixTM26&label=PROFILE%20VIEWS&color=000000&style=flat" alt="Profile View" />
 </div>
---->
+<!---
 <br>
 <div align="center">
     <p align="center" style="color: #ffffff; text-shadow: 2px 2px 2px #1e1e1e;">
@@ -122,3 +123,4 @@
         </b>
     </p>
 </div>
+--->

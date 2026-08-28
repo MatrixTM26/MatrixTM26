@@ -20,3 +20,9 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=MatrixTM26&label=PROFILE%20VIEWS&color=000000&style=flat" alt="Profile View" />
 </div>
+
+<hr>
+
+<div align="center">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=MatrixTM26&count=10&width=560&album=1&duration=1&footer=wave" alt="Profile View" width="100%" />
+</div>

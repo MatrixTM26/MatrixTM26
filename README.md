@@ -18,8 +18,6 @@
     </p>
 </div>
 
-<hr>
-
 <div align="center">
     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=317kt4rpbio6ndrnsmsfzxunmt7m&count=2&duration=1&username=off&footer=wave" alt="Playlist" width="100%" />
 </div>

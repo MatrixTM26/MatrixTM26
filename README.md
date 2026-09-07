@@ -19,6 +19,10 @@
 </div>
 
 <div align="center">
+    <img style="border-radius: 15px; border: 2px solid #6200e8; transform: rotate(0deg);" width="100%" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/refs/heads/master/profile-3d-contrib/profile-night-rainbow.svg" alt="header gif" />
+</div>
+
+<div align="center">
     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=317kt4rpbio6ndrnsmsfzxunmt7m&count=4&duration=1&username=off&footer=wave" alt="Playlist" width="100%" />
 </div>
 

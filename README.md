@@ -5,6 +5,7 @@
     <img style="border-radius: 15px; border: 2px solid #6200e8; transform: rotate(0deg);" width="100%" src="public/img/1.gif" alt="header gif" />
     <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=600&size=50&duration=3000&pause=500&color=6200e8&center=true&vCenter=true&width=750&height=100&lines=HI+THERE!;WELCOME+TO+MY+GITHUB;IM+MATRIXTM26" width="100%">
 </div>
+
 <div align="center" style="border-radius: 10px; border-left: 4px solid #0f0f0f; border-bottom: 4px solid #0f0f0f; border-right: 4px solid #ffffff; border-top: 4px solid #ffffff; transform: rotate(0deg); padding: 1rem;">
     <p align="left" style="font-family: monospace; color: #ffffff; text-shadow: 2px 2px 2px #2b006f;">
         <i>
@@ -18,12 +19,19 @@
     </p>
 </div>
 
-<div align="center">
+<div align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=600&size=30&duration=10000&pause=1000&color=6200e8&center=false&vCenter=true&width=750&height=100&lines=STATS+AND+TECHSTACK" width="100%">
     <img style="border-radius: 15px; border: 2px solid #6200e8; transform: rotate(0deg);" width="100%" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/refs/heads/master/profile-3d-contrib/profile-night-rainbow.svg" alt="header gif" />
 </div>
 
-<div align="center">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=317kt4rpbio6ndrnsmsfzxunmt7m&count=4&duration=1&username=off&footer=wave" alt="Playlist" width="100%" />
+<div align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=600&size=30&duration=10000&pause=1000&color=6200e8&center=false&vCenter=true&width=750&height=100&lines=GALLERY+AND+OVERVIEW" width="100%">
+    <div align="center">
+        <img style="border-radius: 15px; border: 2px solid #6200e8; transform: rotate(0deg);" width="100%" src="public/img/2.jpg" alt="Overview Image" />
+    </div>
+    <div align="center">
+        <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=317kt4rpbio6ndrnsmsfzxunmt7m&count=4&duration=1&username=off&footer=wave" alt="Playlist" width="100%" />
+    </div>
 </div>
 
 <div align="center">

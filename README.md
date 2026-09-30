@@ -19,20 +19,27 @@
     </p>
 </div>
 
+<hr>
+
 <div align="left">
     <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=600&size=30&duration=10000&pause=1000&color=6200e8&center=false&vCenter=true&width=750&height=100&lines=STATS+AND+TECHSTACK" width="100%">
     <img style="border-radius: 15px; border: 2px solid #6200e8; transform: rotate(0deg);" width="100%" src="https://raw.githubusercontent.com/MatrixTM26/MatrixTM26/refs/heads/master/profile-3d-contrib/profile-night-rainbow.svg" alt="header gif" />
 </div>
 
+<hr>
+
 <div align="left">
     <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=600&size=30&duration=10000&pause=1000&color=6200e8&center=false&vCenter=true&width=750&height=100&lines=GALLERY+AND+OVERVIEW" width="100%">
     <div align="center">
         <img style="border-radius: 15px; border: 2px solid #6200e8; transform: rotate(0deg);" width="100%" src="public/img/2.jpg" alt="Overview Image" />
+        <img style="border-radius: 15px; border: 2px solid #6200e8; transform: rotate(0deg);" width="100%" src="public/img/3.jpg" alt="Overview Image" />
     </div>
     <div align="center">
         <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=317kt4rpbio6ndrnsmsfzxunmt7m&count=4&duration=1&username=off&footer=wave" alt="Playlist" width="100%" />
     </div>
 </div>
+
+<hr>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=MatrixTM26&label=PROFILE%20VIEWS&color=000000&style=flat" alt="Profile View" />
